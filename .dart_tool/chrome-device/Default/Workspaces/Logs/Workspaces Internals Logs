@@ -43,3 +43,5 @@
 {"logTime": "0914/071957", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2025-09-14T07:19:57.393Z"}}
 {"logTime": "0914/073548", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2025-09-14T07:35:48.759Z"}}
 {"logTime": "0914/074004", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2025-09-14T07:40:04.532Z"}}
+{"logTime": "0914/124757", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2025-09-14T12:47:57.479Z"}}
+{"logTime": "0914/131224", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2025-09-14T13:12:24.201Z"}}
